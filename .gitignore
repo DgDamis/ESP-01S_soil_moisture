@@ -4,3 +4,7 @@
 .vscode/launch.json
 .vscode/ipch
 src/credentials.hpp
+.vscode
+include
+lib
+test
